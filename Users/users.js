@@ -29,6 +29,9 @@ fetch('https://jsonplaceholder.typicode.com/users')
          <h2>${user.phone}</h2> 
          <h2>${user.website}</h2> 
          </div>
+         <h1>
+         1800$
+         </h1>
            ` 
         userList.appendChild(userDiv); 
     }); 
